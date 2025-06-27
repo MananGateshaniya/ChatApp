@@ -32,13 +32,10 @@ This project allows users to communicate instantly with each other, complete wit
 - JSON Web Tokens (JWT) for auth
 - Cookie-Parser
 
----
-
 ## 📦 Installation
 
 ### Clone the repository:
 
-```bash
 git clone https://github.com/MananGateshaniya/ChatApp.git
 cd ChatApp
 
