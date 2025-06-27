@@ -64,11 +64,14 @@ ChatApp/
 ├── server/          # Node.js + Express backend
 │   └── ...
 
-📢 Check out the official launch post on LinkedIn:  
+## 📢 Project Announcement
+
+Check out the official launch post on LinkedIn:  
 🔗 [Project Launch: Real-Time Chat App](https://www.linkedin.com/posts/manan-hiteshbhai-7b9702289_project-launch-real-time-chat-app-activity-7344323736512159746-qAhc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYMtf0Beh296T2TvF4rFeHWUkFtyyXleGg)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manan_Hiteshbhai-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manan-hiteshbhai-7b9702289/)
 [![GitHub](https://img.shields.io/badge/GitHub-MananGateshaniya-black?style=flat&logo=github)](https://github.com/MananGateshaniya)
+
 
