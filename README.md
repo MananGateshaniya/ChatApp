@@ -54,13 +54,6 @@ cd Frontend
 npm install
 npm run dev
 
-📁 Folder Structure
-ChatApp/
-├── client/          # React + Tailwind frontend
-│   └── ...
-├── server/          # Node.js + Express backend
-│   └── ...
-
 ## 🔗 Watch Project Demo
 
 👉 [Watch the demo on LinkedIn](https://www.linkedin.com/posts/manan-hiteshbhai-7b9702289_project-launch-real-time-chat-app-activity-7344323736512159746-qAhc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYMtf0Beh296T2TvF4rFeHWUkFtyyXleGg)
